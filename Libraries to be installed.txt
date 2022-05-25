@@ -1,0 +1,17 @@
+* pip install pickle
+* pip install textract
+* pip install pytesseract
+* pip install pynput
+* pip install googletrans
+* pip install pyperclip
+* pip install pygame
+* pip install PyQt5
+* pip install Pillow
+* pip install gTTS
+* pip install --quiet transformers==4.5.0
+* pip install --quiet pytorch-lightning==1.2.7
+
+Recommended Applications
+* Anaconda
+* Jupyter
+* Pycharm IDE.
